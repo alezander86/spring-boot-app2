@@ -1,0 +1,1 @@
+1. Application autotests has been successfully deployed!!
